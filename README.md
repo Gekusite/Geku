@@ -17,31 +17,15 @@ Here you will projects which are being
 
 ### Left 4 Dead 2 Mods (Steam)
 
-[Mafia- Running Man Song (Tank Music)](https://steamcommunity.com/sharedfiles/filedetails/?id=233850949/)<br/>
-[GTA: London - Nice One! (Saferoom Sound)](https://steamcommunity.com/sharedfiles/filedetails/?id=233935595/)<br/>
+[Link to full collection](https://steamcommunity.com/sharedfiles/filedetails/?id=1301540591/)<br/>
 
-### Markdown
+### Stronghold Legends Maps (Steam)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+[The Creek](https://steamcommunity.com/sharedfiles/filedetails/?id=1134821287/)<br/>
+[Lands of Glory](https://steamcommunity.com/sharedfiles/filedetails/?id=1588275430/)<br/>
 
-```markdown
-Syntax highlighted code block
+### Insurgency Mods (Steam)
 
-# Header 1
-## Header 2
-### Header 3
+[You Are Empty - Gorsovet (Counter-Attack Music)](https://steamcommunity.com/sharedfiles/filedetails/?id=1546299757/)<br/>
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
