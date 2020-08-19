@@ -9,6 +9,7 @@ de_hazard
 ### Company of Heroes 2 Maps (Steam)
 
 [(2 - 8) Behind Enemy Lines](https://steamcommunity.com/sharedfiles/filedetails/?id=530163440/)<br/>
+![alt text](https://steamuserimages-a.akamaihd.net/ugc/843712213992311826/4D14930CAEA7B7BF721CA3B0BA8177350E4C4CB0/)
 [(2 - 6) Otterburg](https://steamcommunity.com/sharedfiles/filedetails/?id=760521635/)<br/>
 [(2 - 6) Hometown](https://steamcommunity.com/sharedfiles/filedetails/?id=943145481/)<br/>
 [(2 - 6) Volhynian Transit](https://steamcommunity.com/sharedfiles/filedetails/?id=1250754845/)<br/>
