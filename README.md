@@ -2,6 +2,10 @@
 
 Here you will projects which are being
 
+### Counter-Strike 1.6 Maps
+
+de_hazard
+
 ### Company of Heroes 2 Maps (Steam)
 
 [(2 - 8) Behind Enemy Lines](https://steamcommunity.com/sharedfiles/filedetails/?id=530163440/)<br/>
