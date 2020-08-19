@@ -19,14 +19,14 @@ de_hazard
 
 [(2 - 6) Hometown (Alpha)](https://steamcommunity.com/sharedfiles/filedetails/?id=761043435/)<br/>
 
-### Left 4 Dead 2 Mods (Steam)
-
-[Link to full collection](https://steamcommunity.com/sharedfiles/filedetails/?id=1301540591/)<br/>
-
 ### Stronghold Legends Maps (Steam)
 
 [The Creek](https://steamcommunity.com/sharedfiles/filedetails/?id=1134821287/)<br/>
 [Lands of Glory](https://steamcommunity.com/sharedfiles/filedetails/?id=1588275430/)<br/>
+
+### Left 4 Dead 2 Mods (Steam)
+
+[Link to full collection](https://steamcommunity.com/sharedfiles/filedetails/?id=1301540591/)<br/>
 
 ### Insurgency Mods (Steam)
 
