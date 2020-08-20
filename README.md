@@ -12,8 +12,8 @@ de_hazard
 [(2 - 6) Otterburg](https://gekusite.github.io/COH2002/)<br/>
 [(2 - 6) Hometown](https://gekusite.github.io/COH2003/)<br/>
 [(2 - 6) Volhynian Transit](https://gekusite.github.io/COH2004/)<br/>
-[(2 - 6) Turdorf](https://steamcommunity.com/sharedfiles/filedetails/?id=1269540437/)<br/>
-[(2 - 8) Metropolis](https://steamcommunity.com/sharedfiles/filedetails/?id=1775503602/)<br/>
+[(2 - 6) Turdorf](https://gekusite.github.io/COH2005/)<br/>
+[(2 - 8) Metropolis](https://gekusite.github.io/COH2006/)<br/>
 
 #### Other Versions
 
