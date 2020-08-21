@@ -30,6 +30,6 @@ de_hazard
 
 ### Insurgency Mods (Steam)
 
-[You Are Empty - Gorsovet (Counter-Attack Music)](https://steamcommunity.com/sharedfiles/filedetails/?id=1546299757/)<br/>
+[You Are Empty - Gorsovet (Counter-Attack Music)](https://gekusite.github.io/INSR001/)<br/>
 
 
