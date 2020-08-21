@@ -21,8 +21,8 @@ de_hazard
 
 ### Stronghold Legends Maps (Steam)
 
-[The Creek](https://steamcommunity.com/sharedfiles/filedetails/?id=1134821287/)<br/>
-[Lands of Glory](https://steamcommunity.com/sharedfiles/filedetails/?id=1588275430/)<br/>
+[The Creek](https://gekusite.github.io/SHL001/)<br/>
+[Lands of Glory](https://gekusite.github.io/SHL002/)<br/>
 
 ### Left 4 Dead 2 Mods (Steam)
 
