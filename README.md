@@ -6,7 +6,7 @@ Here you will find projects which are made by Geku. The list also consists of WI
 
 de_hazard
 
-### Company of Heroes 2 Maps (Steam)
+### Company of Heroes 2 Maps
 
 [(2 - 8) Behind Enemy Lines](https://gekusite.github.io/COH2001/)<br/>
 [(2 - 6) Otterburg](https://gekusite.github.io/COH2002/)<br/>
@@ -19,16 +19,16 @@ de_hazard
 
 [(2 - 6) Hometown (Alpha)](https://steamcommunity.com/sharedfiles/filedetails/?id=761043435/)<br/>
 
-### Stronghold Legends Maps (Steam)
+### Stronghold Legends Maps
 
 [The Creek](https://gekusite.github.io/SHL001/)<br/>
 [Lands of Glory](https://gekusite.github.io/SHL002/)<br/>
 
-### Left 4 Dead 2 Mods (Steam)
+### Left 4 Dead 2 Mods
 
 [Link to full collection](https://steamcommunity.com/sharedfiles/filedetails/?id=1301540591/)<br/>
 
-### Insurgency Mods (Steam)
+### Insurgency Mods
 
 [You Are Empty - Gorsovet (Counter-Attack Music)](https://gekusite.github.io/INSR001/)<br/>
 
