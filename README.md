@@ -17,7 +17,7 @@ de_hazard
 
 #### Other Versions
 
-[(2 - 6) Hometown (Alpha)](https://steamcommunity.com/sharedfiles/filedetails/?id=761043435/)<br/>
+[(2 - 6) Hometown (Alpha)](https://steamcommunity.com/sharedfiles/filedetails/?id=761043435/) (Steam) <br/>
 
 ### Stronghold Legends Maps
 
@@ -26,7 +26,7 @@ de_hazard
 
 ### Left 4 Dead 2 Mods
 
-[Link to full collection](https://steamcommunity.com/sharedfiles/filedetails/?id=1301540591/)<br/>
+[Link to full collection](https://steamcommunity.com/sharedfiles/filedetails/?id=1301540591/) (Steam)<br/>
 
 ### Insurgency Mods
 
