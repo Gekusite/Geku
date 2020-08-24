@@ -30,11 +30,7 @@ de_hazard
 [GTA: London - Nice One! (Saferoom Sound)](https://gekusite.github.io/L4D2002/)<br/>
 [Crazy Tank Banjo Theme](https://gekusite.github.io/L4D2003/)<br/>
 [Nelson's laugh- Incapacitated](https://gekusite.github.io/L4D2004/)<br/>
-[Half-Life- Jungle Drums (Tank Music)](https://gekusite.github.io/L4D2005/)<br/>
-[Half-Life: Opposing Force- Storm (Tank Music)](https://gekusite.github.io/L4D2006/)<br/>
-[Half-Life: Blue Shift- Danger Rises (Dark Carnival Beginning Music)](https://gekusite.github.io/L4D2007/)<br/>
-[Half-Life- Nepal Monastery (The Parish Beginning Music)](https://gekusite.github.io/L4D2008/)<br/>
-[Half-Life: Opposing Force- Listen (Witch Music)](https://gekusite.github.io/L4D2009/)<br/>
+[Half-Life Sound Mods](https://gekusite.github.io/L4D2L001/) (List)<br/>
 [Link to full collection](https://steamcommunity.com/sharedfiles/filedetails/?id=1301540591/) (Steam)<br/>
 
 ### Insurgency Mods
