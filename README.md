@@ -32,4 +32,7 @@ de_hazard
 
 [You Are Empty - Gorsovet (Counter-Attack Music)](https://gekusite.github.io/INSR001/)<br/>
 
+### Heroes of Might and Magic 3 Maps
+### Tibia Maps
+
 
