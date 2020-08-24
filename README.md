@@ -27,6 +27,17 @@ de_hazard
 ### Left 4 Dead 2 Mods
 
 [Mafia- Running Man Song (Tank Music)](https://gekusite.github.io/L4D2001/)<br/>
+[GTA: London - Nice One! (Saferoom Sound)](https://gekusite.github.io/L4D2002/)<br/>
+[Crazy Tank Banjo Theme](https://gekusite.github.io/L4D2003/)<br/>
+[Nelson's laugh- Incapacitated](https://gekusite.github.io/L4D2004/)<br/>
+[Half-Life- Jungle Drums (Tank Music)](https://gekusite.github.io/L4D2005/)<br/>
+[Half-Life: Opposing Force- Storm (Tank Music)](https://gekusite.github.io/L4D2006/)<br/>
+[GTA: London - Nice One! (Saferoom Sound)](https://gekusite.github.io/L4D2002/)<br/>
+[GTA: London - Nice One! (Saferoom Sound)](https://gekusite.github.io/L4D2002/)<br/>
+[GTA: London - Nice One! (Saferoom Sound)](https://gekusite.github.io/L4D2002/)<br/>
+[GTA: London - Nice One! (Saferoom Sound)](https://gekusite.github.io/L4D2002/)<br/>
+[GTA: London - Nice One! (Saferoom Sound)](https://gekusite.github.io/L4D2002/)<br/>
+[GTA: London - Nice One! (Saferoom Sound)](https://gekusite.github.io/L4D2002/)<br/>
 [Link to full collection](https://steamcommunity.com/sharedfiles/filedetails/?id=1301540591/) (Steam)<br/>
 
 ### Insurgency Mods
