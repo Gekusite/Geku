@@ -43,5 +43,5 @@ Arcania
 
 ### Tibia Maps
 
-[Tibia 8.6 Map](https://gekusite.github.io/TB001/) (Modified)<br/>
+[Tibia 8.6 Modified Map](https://gekusite.github.io/TB001/)<br/>
 
