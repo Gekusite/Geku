@@ -31,6 +31,7 @@ de_hazard
 [Crazy Tank Banjo Theme](https://gekusite.github.io/L4D2003/)<br/>
 [Nelson's laugh- Incapacitated](https://gekusite.github.io/L4D2004/)<br/>
 [Half-Life Sound Mods](https://gekusite.github.io/L4D2L001/) (List)<br/>
+[Half-Life- HEV Suit Sound Mods](https://gekusite.github.io/L4D2L002/) (List)<br/>
 [Link to full collection](https://steamcommunity.com/sharedfiles/filedetails/?id=1301540591/) (Steam)<br/>
 
 ### Insurgency Mods
