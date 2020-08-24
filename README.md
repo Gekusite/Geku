@@ -32,12 +32,9 @@ de_hazard
 [Nelson's laugh- Incapacitated](https://gekusite.github.io/L4D2004/)<br/>
 [Half-Life- Jungle Drums (Tank Music)](https://gekusite.github.io/L4D2005/)<br/>
 [Half-Life: Opposing Force- Storm (Tank Music)](https://gekusite.github.io/L4D2006/)<br/>
-[GTA: London - Nice One! (Saferoom Sound)](https://gekusite.github.io/L4D2002/)<br/>
-[GTA: London - Nice One! (Saferoom Sound)](https://gekusite.github.io/L4D2002/)<br/>
-[GTA: London - Nice One! (Saferoom Sound)](https://gekusite.github.io/L4D2002/)<br/>
-[GTA: London - Nice One! (Saferoom Sound)](https://gekusite.github.io/L4D2002/)<br/>
-[GTA: London - Nice One! (Saferoom Sound)](https://gekusite.github.io/L4D2002/)<br/>
-[GTA: London - Nice One! (Saferoom Sound)](https://gekusite.github.io/L4D2002/)<br/>
+[Half-Life: Blue Shift- Danger Rises (Dark Carnival Beginning Music)](https://gekusite.github.io/L4D2007/)<br/>
+[Half-Life- Nepal Monastery (The Parish Beginning Music)](https://gekusite.github.io/L4D2008/)<br/>
+[Half-Life: Opposing Force- Listen (Witch Music)](https://gekusite.github.io/L4D2009/)<br/>
 [Link to full collection](https://steamcommunity.com/sharedfiles/filedetails/?id=1301540591/) (Steam)<br/>
 
 ### Insurgency Mods
