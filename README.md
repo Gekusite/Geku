@@ -1,7 +1,6 @@
 ## Geku Projects
 
-Here you will find projects which are made by Geku. The list also consists of WIP projects.
-
+Here you will find projects which I have personally made. You will also find here WIP projects and additional shared files.
 ### Counter-Strike 1.6 Maps
 
 de_hazard
