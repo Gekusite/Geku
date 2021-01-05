@@ -3,7 +3,8 @@
 Here you will find projects which I have personally made. You will also find here WIP projects and additional shared files.
 ### Counter-Strike 1.6 Maps
 
-[de_hazard](https://gekusite.github.io/CS16001/)
+[de_hazard](https://gekusite.github.io/CS16001/)<br/>
+de_sirius
 
 ### Company of Heroes 2 Maps
 
