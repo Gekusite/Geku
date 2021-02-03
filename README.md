@@ -1,4 +1,4 @@
-## Geku Projects
+## Azure Gecko
 
 Here you will find projects which I have personally made. You will also find here WIP projects and additional shared files.
 ### Counter-Strike 1.6 Maps
